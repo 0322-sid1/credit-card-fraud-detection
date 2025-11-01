@@ -20,15 +20,21 @@ Handle imbalanced data using resampling techniques.
 # Machine Learning Models Used
 
 Logistic Regression
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 XGBoost Classifier
 
-#Methodology
+# Methodology
 
 Data Preprocessing
+
 Handling missing values
+
 Feature scaling using StandardScaler
+
 Splitting data into training/testing sets
 Handling Imbalanced Data
 Model Training
